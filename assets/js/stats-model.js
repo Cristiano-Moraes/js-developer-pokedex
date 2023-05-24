@@ -1,0 +1,5 @@
+class StatsType {
+        nameStat;
+        valorStat;
+    }
+
